@@ -645,7 +645,9 @@ footer .footContainer .socialIcons2 a:hover{
     }
 
     /*--------------------------resume-------------------*/
-
+    #resume li{
+        font-size: 15px;
+    }
     .edHL{
         font-size: 15px;
         font-weight: 1000;
