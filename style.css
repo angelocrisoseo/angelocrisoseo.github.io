@@ -462,6 +462,11 @@ nav ul li a:hover{
 .fa-solid:hover{
     color:#021c55
 }
+.contactLeft .btn3{
+    font-size: 15px;
+    position: absolute;
+    margin-top: 15px;
+}
 .btn3, .btn4{
     background: #e8e8e8;
     border:#021c55 3px solid;
