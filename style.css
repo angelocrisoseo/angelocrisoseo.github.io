@@ -460,7 +460,7 @@ nav ul li a:hover{
     color:#021c55
 }
 .btn3, .btn4{
-    background: #e8e8e8;
+    background: none;
     border:#021c55 3px solid;
     padding: 5px 15px;
     border-radius: 5px;
@@ -767,6 +767,9 @@ footer .footContainer .socialIcons2 a:hover{
     }
     .btn{
         font-size:12px;
+    }
+    .btn3, .btn4{
+        border:#021c55 1px solid;
     }
    
 /*------------------footer------------*/
