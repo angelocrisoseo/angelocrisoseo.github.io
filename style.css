@@ -147,14 +147,13 @@ nav ul li a:hover{
     margin-top: 200px;
     margin-bottom: 0;
 }
-.aboutCol2 .subtitle{
+.aboutCol2 h3{
     padding: 10px 20px;
-    text-transform: uppercase;
     background: #021c55;
     color: #fff;
     border-radius: 15px;
 }
-.aboutCol2 .abtContent{
+.aboutCol2 p{
     font-size: 20px;
     padding-top: 50px;
     color: #000;;
@@ -471,6 +470,7 @@ nav ul li a:hover{
 }
 .btn{
     transition: background 0.3s;
+    font-size: 15px;
 }
 .button{
     margin-top: 30px;
@@ -768,6 +768,7 @@ footer .footContainer .socialIcons2 a:hover{
     .btn{
         font-size:12px;
     }
+   
 /*------------------footer------------*/
     .footContainer{
         font-size: 10px;
