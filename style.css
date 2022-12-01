@@ -99,17 +99,19 @@ nav ul li a:hover{
 #rollNav{
     display: flex;
     justify-content: space-between;
+    padding: 15px 0;
 }
 #rollNav img{
-    max-width: 100px;
-    max-height: 100px;
+    max-width: 30px;
+    max-height: 30px;
+    margin-left: 15px;
     z-index: 4;
 }
 #rollNav ul li{
     display:inline-block;
     padding-right: 15px;
-    padding-top: 20px;
     font-weight: 100;
+    padding-top: 5px;
 }
 #rollNav ul li a{
     color:#fff;
@@ -605,8 +607,8 @@ footer .footContainer .socialIcons2 a:hover{
     }
     #rollNav ul .phoneNav.fa-solid.fa-xmark {
         position: absolute;
-        top:15px;
-        right:15px;
+        top:10px;
+        right:10px;
         cursor: pointer;
         background: #021c55;
         padding: 10px;
