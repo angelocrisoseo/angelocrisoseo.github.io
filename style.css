@@ -500,6 +500,12 @@ form input:hover, form textarea:hover{
 form .btn4{
     cursor: pointer;
 }
+#msg{
+    color:#04339b;
+    font-size: 13px;
+    display: block;
+    margin-top: 20px;
+}
 footer{
     background: #666668;
     padding: 15px 0;
