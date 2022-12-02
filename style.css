@@ -465,7 +465,7 @@ nav ul li a:hover{
 .btn3, .btn4{
     background: none;
     border:#021c55 3px solid;
-    padding: 5px 15px;
+    padding: 10px 15px;
     border-radius: 5px;
     color:#000;
     text-decoration: none;
@@ -487,7 +487,7 @@ form input, form textarea{
     border: 0;
     border-radius: 10px;
     outline: none;
-    background: #4e4f52;
+    background: #4e4f524e;
     padding: 15px;
     margin: 10px 0;
     color:#fff;
@@ -495,7 +495,7 @@ form input, form textarea{
     transition: background 0.2s;
 }
 form input:hover, form textarea:hover{
-    background: #666668;
+    background: #666668ad;
 }
 form .btn4{
     cursor: pointer;
