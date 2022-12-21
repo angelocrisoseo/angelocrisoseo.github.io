@@ -161,6 +161,10 @@ nav ul li a:hover{
     padding-top: 50px;
     color: #000;;
 }
+.saying{
+    font-weight: 1000;
+    color:#021c55;
+}
 
 /*---------------resume--------*/
 .contentS{
